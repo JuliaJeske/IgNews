@@ -10,6 +10,8 @@
 - Prismic
 - Stripe
 - FaunaDb
+- Style modules 
+- Sass
 
 
 
