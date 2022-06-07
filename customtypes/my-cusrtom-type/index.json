@@ -1,0 +1,9 @@
+{
+  "id": "my-cusrtom-type",
+  "label": "main",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {}
+  }
+}
